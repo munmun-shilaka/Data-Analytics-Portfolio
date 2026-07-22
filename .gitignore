@@ -1,1 +1,12 @@
 .DS_Store
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary notebooks
+Untitled.ipynb
+
+# macOS
+.DS_Store
+
+# Generated images
+chart.png
