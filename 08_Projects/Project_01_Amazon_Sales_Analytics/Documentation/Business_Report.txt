@@ -1,0 +1,7 @@
+AMAZON SALES ANALYTICS REPORT
+==================================================
+
+Total Products : 1463
+Average Rating : 4.1
+Average Price : ₹ 5451.07
+Average Discount : ₹ 2321.79
