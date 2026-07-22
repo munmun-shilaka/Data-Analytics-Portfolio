@@ -79,7 +79,7 @@ GitHub:
 https://github.com/munmun-shilaka
 
 LinkedIn:
-(Add your LinkedIn profile link here)
+https://www.linkedin.com/in/munmun-shilaka/
 
 ---
 
