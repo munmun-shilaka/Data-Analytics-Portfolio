@@ -1,90 +1,75 @@
+# 📊 Amazon Sales Analytics
 
-# 📊 Data Analytics Portfolio
+## 📌 Project Overview
 
-<div align="center">
+This project demonstrates an end-to-end Data Analytics workflow using Python and Pandas. The dataset contains Amazon product information, including prices, ratings, discounts, categories, and customer reviews.
 
-## Hi, I'm Munmun Shilaka 👋
-
-### Data Analyst | Business Analyst | SQL | Python | Power BI | Tableau | Excel
-
-Building real-world data analytics projects with industry best practices.
+The objective of this project is to clean the data, perform exploratory data analysis (EDA), engineer useful features, create visualizations, and generate business insights that help support decision-making.
 
 ---
 
-</div>
+# 🚀 Technologies Used
 
-# 📌 About Me
-
-Welcome to my Data Analytics Portfolio.
-
-This repository contains my complete learning journey, real-world projects, business case studies, dashboards, SQL solutions, Python automation, Power BI reports, Tableau visualizations, Excel analytics, and interview preparation materials.
-
-Every project is built with the objective of solving real business problems using data.
-
----
-
-# 🚀 Skills
-
-- SQL
 - Python
-- Excel
-- Power BI
-- Tableau
+- Pandas
+- Matplotlib
+- Jupyter Notebook
 - Git
 - GitHub
-- Data Cleaning
-- Data Visualization
-- Business Analytics
-- Dashboard Development
 
 ---
 
-# 📂 Repository Structure
+# 📂 Project Workflow
+
+1. Data Loading
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Business Analysis
+5. Feature Engineering
+6. Data Visualization
+7. Business Report Generation
+
+---
+
+# 📊 Business Insights
+
+- Electronics products dominate the dataset.
+- Most products have ratings between 4.0 and 4.5.
+- Several products offer discounts greater than 90%.
+- Premium electronics have significantly higher selling prices.
+- Customer ratings are generally positive across most categories.
+
+---
+
+# 📁 Folder Structure
 
 ```
-01_Git_GitHub/
-02_SQL/
-03_Python/
-04_Excel/
-05_Tableau/
-06_Power_BI/
-07_Case_Studies/
-08_Projects/
-09_Notes/
-10_Resources/
+Data-Analytics-Portfolio
+│
+├── 03_Python
+├── 08_Projects
+│   └── Project_01_Amazon_Sales_Analytics
+│       ├── Dataset
+│       ├── Documentation
+│       ├── Images
+│       ├── Notebook
+│       ├── Output
+│       └── SQL
 ```
 
 ---
 
-# 🎯 Current Goal
+# 📈 Project Files
 
-My objective is to become a world-class Data Analyst by building professional-quality projects and solving real business problems.
-
----
-
-# 📈 Projects
-
-Projects will be added regularly as I complete each module.
-
----
-
-# 📖 Learning Journey
-
-✔ Git & GitHub
-
-⬜ SQL
-
-⬜ Python
-
-⬜ Excel
-
-⬜ Tableau
-
-⬜ Power BI
-
-⬜ Statistics
-
-⬜ Machine Learning
+- Amazon_Sales_Analytics.ipynb
+- 01_Data_Loading.py
+- 02_Data_Cleaning.py
+- 03_Data_Exploration.py
+- 04_EDA.py
+- 05_Data_Visualization.py
+- 06_Business_Analysis.py
+- 07_Feature_Engineering.py
+- 08_Final_Report.py
 
 ---
 
@@ -94,7 +79,7 @@ GitHub:
 https://github.com/munmun-shilaka
 
 LinkedIn:
-https://www.linkedin.com/in/munmun-shilaka/
+(Add your LinkedIn profile link here)
 
 ---
 
