@@ -141,7 +141,7 @@ Project_02_Airbnb_Business_Intelligence/
 ├── README.md
 └── requirements.txt
 
-📈 Key Business Findings
+## 📈 Key Business Findings
 
 1. Borough Performance
 
@@ -230,7 +230,7 @@ Business Implication
 
 Availability can be used as an indicator of supply conditions and market concentration across NYC neighbourhoods.
 
-💼 Business Recommendations
+## 💼 Business Recommendations
 1. Use Localised Pricing
 
 Pricing should be benchmarked at the neighbourhood and borough level rather than applying a single NYC-wide pricing strategy.
@@ -255,7 +255,7 @@ Availability patterns should be monitored alongside price to understand where su
 
 Review activity can be used as an engagement indicator when comparing listings, neighbourhoods, and room types.
 
-🧮 SQL Analysis
+## 🧮 SQL Analysis
 
 The project contains eight structured SQL modules:
 
@@ -291,7 +291,7 @@ Review activity and customer engagement analysis.
 
 Executive-level performance summaries and business insights.
 
-🐍 Python Analysis
+## 🐍 Python Analysis
 
 The Python notebook covers:
 
@@ -309,7 +309,8 @@ Neighbourhood analysis
 Customer engagement analysis
 Feature engineering
 Business insights
-📊 Dashboard
+
+## 📊 Dashboard
 
 A Power BI dashboard is planned as the next visualisation phase.
 
@@ -326,7 +327,7 @@ Availability
 
 The dashboard-ready datasets have already been prepared in the Output folder.
 
-⚠️ Data Limitations
+## ⚠️ Data Limitations
 
 This project uses publicly available Airbnb data.
 
@@ -344,7 +345,8 @@ Review counts should not be interpreted as booking counts.
 Availability should not be interpreted as confirmed occupancy.
 Listed price should not be interpreted as realised transaction value.
 Revenue-related metrics should be treated as pricing or market-opportunity analysis rather than actual Airbnb financial performance.
-📚 Documentation
+
+## 📚 Documentation
 
 Detailed project documentation is available in the Documentation folder:
 
@@ -352,7 +354,8 @@ Business_Report.md
 Data_Dictionary.md
 Executive_Summary.md
 Project_Summary.md
-🚀 Future Improvements
+
+## 🚀 Future Improvements
 
 Planned future enhancements include:
 
