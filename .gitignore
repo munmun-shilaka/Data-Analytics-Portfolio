@@ -10,3 +10,10 @@ Untitled.ipynb
 
 # Generated images
 chart.png
+
+# Airbnb Project - Local SQLite database
+08_Projects/Project_02_Airbnb_Business_Intelligence/Airbnb_NYC.db
+
+# Airbnb raw datasets
+08_Projects/Project_02_Airbnb_Business_Intelligence/Dataset/*.csv
+08_Projects/Project_02_Airbnb_Business_Intelligence/Dataset/*.gz
