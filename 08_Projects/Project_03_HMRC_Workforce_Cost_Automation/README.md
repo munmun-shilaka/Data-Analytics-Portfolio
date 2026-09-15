@@ -100,3 +100,13 @@ AI-assisted Business Insights | Git/GitHub
 The solution reduces repetitive reporting work, improves exception
 visibility and provides a structured path from raw workforce data
 to management decision support.
+
+## Dashboard Preview
+
+### Excel VBA Management Dashboard
+
+![HMRC Workforce Dashboard](Images/03_excel_dashboard.png)
+
+### AI Business Insights
+
+![AI Business Insights](Images/04_ai_business_insights.png)
